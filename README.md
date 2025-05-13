@@ -22,7 +22,7 @@ The dashboard helps business users gain insights into churn patterns, while the 
 ## 📷 Dashboard Preview
 
 ### Dashboard 1  
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](dashbord1.png)
 
 ### Dashboard 2  
 ![Dashboard 2](dashboard2.png)
